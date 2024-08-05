@@ -1,5 +1,5 @@
 # VoltVivi
-
+_Current Version: v0.0.0_
 ## Project Overview 🚀
 
 VoltVivi is an innovative application designed to help users effectively manage and monitor their energy levels and emotional well-being. Central to the app is a small cute robot named Vivi, who represents the user's inner self. Most activities require energy expenditure, while only a few essential activities, such as sleeping and eating, can replenish energy. Each activity also has the potential to bring positive or negative emotional feedback.
@@ -25,6 +25,10 @@ By visualizing energy consumption and mood through engaging animations, VoltVivi
 - **High energy and high happiness**: Vivi feels satisfied 😄.
 - **Low energy and low happiness**: Vivi becomes depressed 😢.
 - **Low energy but high happiness**: Vivi feels tired 😴.
+
+
+
+![Vivi's emotions](/assets/README/Vivi's emotions Category.jpg)
 
 
 ## Features ✨
@@ -129,7 +133,7 @@ We will be using the following tools to build Vivi:
 
 Below is the workflow for developing the VoltVivi project:
 
-![Development Workflow](path-to-your-flowchart-image)
+![Development Workflow](/assert/README/VoltViviWorkFlow)
 
 ### Plan 📋
 - **Tool**: Figma
