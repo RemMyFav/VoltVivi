@@ -28,7 +28,7 @@ By visualizing energy consumption and mood through engaging animations, VoltVivi
 
 
 
-![Vivi's emotions](./assets/README/Vivi's emotions Category.jpg)
+![Vivi's emotions](assets/README/Vivi's emotions Category.jpg)
 
 
 ## Features ✨
@@ -133,7 +133,7 @@ We will be using the following tools to build Vivi:
 
 Below is the workflow for developing the VoltVivi project:
 
-![Development Workflow](./asserts/README/VoltViviWorkFlow.jpg)
+![Development Workflow](/asserts/README/VoltViviWorkFlow.jpg)
 
 ### Plan 📋
 - **Tool**: Figma
