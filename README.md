@@ -26,11 +26,7 @@ By visualizing energy consumption and mood through engaging animations, VoltVivi
 - **Low energy and low happiness**: Vivi becomes depressed 😢.
 - **Low energy but high happiness**: Vivi feels tired 😴.
 
-
-
-![Vivi's emotions](assets/README/Vivi's emotions Category.jpg)
-
-
+![Vivi's Emotions Category](/assets/README/Vivi's emotions Category.jpg)
 ## Features ✨
 
 1. **Energy Bar**:
@@ -133,7 +129,7 @@ We will be using the following tools to build Vivi:
 
 Below is the workflow for developing the VoltVivi project:
 
-![Development Workflow](/asserts/README/VoltViviWorkFlow.jpg)
+![Development Workflow](/assets/README/VoltViviWorkFlow.jpg)
 
 ### Plan 📋
 - **Tool**: Figma
