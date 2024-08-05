@@ -26,7 +26,7 @@ By visualizing energy consumption and mood through engaging animations, VoltVivi
 - **Low energy and low happiness**: Vivi becomes depressed 😢.
 - **Low energy but high happiness**: Vivi feels tired 😴.
 
-![Vivi's Emotions Category](/assets/README/Vivi's emotions Category.jpg)
+![Vivi's Emotions Category](/assets/README/EmotionCategory.jpg)
 ## Features ✨
 
 1. **Energy Bar**:
