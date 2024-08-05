@@ -2,17 +2,30 @@
 
 ## Project Overview 🚀
 
-VoltVivi is an innovative application designed to help users effectively manage and monitor their energy levels and emotional well-being. Central to the app is a small robot named Vivi, who represents the user's inner self. Most activities require energy expenditure, while only a few essential activities, such as sleeping and eating, can replenish energy. Each activity also has the potential to bring positive or negative emotional feedback.
+VoltVivi is an innovative application designed to help users effectively manage and monitor their energy levels and emotional well-being. Central to the app is a small cute robot named Vivi, who represents the user's inner self. Most activities require energy expenditure, while only a few essential activities, such as sleeping and eating, can replenish energy. Each activity also has the potential to bring positive or negative emotional feedback.
 
-VoltVivi features two main indicators: the Energy Bar and the Mood Bar. The Energy Bar shows Vivi's current energy level, highlighting that most activities consume energy, with only essential activities like sleeping and eating replenishing it. Over time, Vivi will prompt users to reflect on whether their recent activities were a reasonable investment of their energy. This encourages users to think critically about how they spend their energy and the impact on their overall well-being.
+VoltVivi features two main indicators: the Energy Bar and the Mood Bar. 
 
-The Mood Bar indicates the happiness value derived from these activities after the energy investment. Users can see how different activities affect Vivi’s mood, helping them understand the balance between energy expenditure and emotional satisfaction. If users spend energy on activities that do not bring happiness, Vivi's mood will reflect this imbalance.
+### Energy Bar 🔌
+The Energy Bar shows Vivi's current energy level:
+- Most activities consume energy.
+- Essential activities like sleeping and eating replenish energy.
+- This helps users understand that energy is a precious resource.
+
+### Mood Bar 😊
+The Mood Bar indicates the happiness value derived from activities after energy investment:
+- Any activity will bring effect on Vivi's mood.
+- This helps users understand the trade off between energy expenditure and emotional satisfaction.
+
+Over time, Vivi will prompt users to reflect on whether their recent activities were a reasonable investment of their energy. This encourages users to think critically about how they spend their energy and the impact on their overall well-being.
 
 By visualizing energy consumption and mood through engaging animations, VoltVivi educates users on the finite nature of human energy and the importance of prioritizing activities that contribute positively to their happiness. This empowers users to take control of their well-being, making thoughtful decisions about their energy investments. Vivi’s reactions help illustrate different states:
-- Sufficient energy but low happiness: Vivi becomes irritable.
-- High energy and high happiness: Vivi feels satisfied.
-- Low energy and low happiness: Vivi becomes depressed.
-- Low energy but high happiness: Vivi feels tired.
+
+- **Sufficient energy but low happiness**: Vivi becomes irritable 😠.
+- **High energy and high happiness**: Vivi feels satisfied 😄.
+- **Low energy and low happiness**: Vivi becomes depressed 😢.
+- **Low energy but high happiness**: Vivi feels tired 😴.
+
 
 ## Features ✨
 
