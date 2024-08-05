@@ -2,34 +2,44 @@
 
 ## Project Overview 🚀
 
-VoltVivi is an innovative application designed to help users manage and monitor their energy levels through a fun and engaging interface. At the heart of the app is a small robot named Vivi, who consumes batteries to represent different activities in daily life. Each type of battery corresponds to various actions, such as eating, sleeping, and studying, with different energy values. The more batteries Vivi consumes, the better its condition. Conversely, activities that require energy, like working or cooking, deplete Vivi's energy levels.
+VoltVivi is an innovative application designed to help users effectively manage and monitor their energy levels and emotional well-being. Central to the app is a small robot named Vivi, who represents the user's inner self. Most activities require energy expenditure, while only a few essential activities, such as sleeping and eating, can replenish energy. Each activity also has the potential to bring positive or negative emotional feedback.
 
-An interesting feature of VoltVivi is its dynamic assessment system. Users are asked to assign energy values to activities, reflecting their personal perception of energy expenditure. Additionally, users provide feedback on Vivi's status, mirroring their own energy levels. The app also uses data from its database to recommend approximate energy values for different activities, though this is tailored individually.
+VoltVivi features two main indicators: the Energy Bar and the Mood Bar. The Energy Bar shows Vivi's current energy level, highlighting that most activities consume energy, with only essential activities like sleeping and eating replenishing it. Over time, Vivi will prompt users to reflect on whether their recent activities were a reasonable investment of their energy. This encourages users to think critically about how they spend their energy and the impact on their overall well-being.
 
-The main challenge of this project lies in developing a reliable recommendation system and an effective scale for various activities. Inspired by psychological scales used to assess patients' conditions, VoltVivi aims to educate users on the finite nature of human energy and empower them to prioritize activities that matter most. By visualizing energy consumption through animations, users learn to recognize and manage the activities that drain their energy, ultimately taking control of their well-being and becoming masters of their own lives.
+The Mood Bar indicates the happiness value derived from these activities after the energy investment. Users can see how different activities affect Vivi’s mood, helping them understand the balance between energy expenditure and emotional satisfaction. If users spend energy on activities that do not bring happiness, Vivi's mood will reflect this imbalance.
+
+By visualizing energy consumption and mood through engaging animations, VoltVivi educates users on the finite nature of human energy and the importance of prioritizing activities that contribute positively to their happiness. This empowers users to take control of their well-being, making thoughtful decisions about their energy investments. Vivi’s reactions help illustrate different states:
+- Sufficient energy but low happiness: Vivi becomes irritable.
+- High energy and high happiness: Vivi feels satisfied.
+- Low energy and low happiness: Vivi becomes depressed.
+- Low energy but high happiness: Vivi feels tired.
 
 ## Features ✨
 
-1. **Energy Meter**:
-   - Vivi has an energy meter on its chest that displays its current energy level.
+1. **Energy Bar**:
+   - Displays Vivi's current energy level. Most activities consume energy, while essential activities like sleeping and eating replenish it. Helps users track their energy expenditure.
 
-2. **Battery Feeding**:
-   - Users can feed batteries to Vivi, specifying the activity source (e.g., eating, sleeping, studying) for each battery.
+2. **Mood Bar**:
+   - Shows the happiness level resulting from energy investments. Reflects how different activities impact Vivi's mood, helping users balance energy use with emotional satisfaction.
 
-3. **Energy Consumption**:
-   - Users can perform activities that consume energy, also specifying the activity source (e.g., working, cooking).
+3. **Battery Feeding**:
+   - Users can feed batteries to Vivi, specifying the activity source (e.g., eating, sleeping, studying) for each battery. This helps in tracking energy sources and their impact.
 
-4. **Personalized Database**:
-   - All energy inputs and outputs are stored in a personal database for each user, allowing for unique interactions and energy measurements.
+4. **Energy Consumption**:
+   - Users can perform activities that consume energy, also specifying the activity source (e.g., working, cooking). Helps in understanding how energy is spent throughout the day.
 
-5. **Customizable Energy Values**:
-   - Users can define the energy value for each activity, reflecting their personal perception of energy expenditure.
+5. **Personalized Database**:
+   - All energy inputs and outputs, along with mood feedback, are stored in a personal database for each user. This allows for unique interactions and personalized energy measurements.
 
-6. **Interactive Feedback**:
-   - Vivi provides different feedback based on user interactions, helping users understand their energy levels better.
+6. **Customizable Energy and Mood Values**:
+   - Users can define the energy and mood value for each activity, reflecting their personal perception of energy expenditure and happiness. This personalization helps in better managing individual well-being.
 
-7. **Dynamic Recommendations**:
-   - The app uses data from the database to recommend approximate energy values for various activities, personalized to each user.
+7. **Interactive Feedback**:
+   - Vivi provides different feedback based on user interactions, helping users understand their energy and mood levels better. This feedback is crucial for making informed decisions about daily activities.
+
+8. **Dynamic Recommendations**:
+   - The app uses data from the database to recommend approximate energy and mood values for various activities, personalized to each user. This helps users make better choices for their energy investments.
+
 
 ## Contribution Guidelines 🤝
 
