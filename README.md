@@ -21,12 +21,12 @@ Over time, Vivi will prompt users to reflect on whether their recent activities 
 
 By visualizing energy consumption and mood through engaging animations, VoltVivi educates users on the finite nature of human energy and the importance of prioritizing activities that contribute positively to their happiness. This empowers users to take control of their well-being, making thoughtful decisions about their energy investments. Vivi’s reactions help illustrate different states:
 
-- **High energy but low happiness**: Vivi becomes hyperative (irritable 😠).
-- **High energy and high happiness**: Vivi feels vivacious (satisfied 😄).
-- **Low energy and low happiness**: Vivi becomes lethargic (depressed 😢).
-- **Low energy but high happiness**: Vivi feels serene (chill 😴).
+- **High energy but low happiness**: Vivi is agitated😠.
+- **High energy and high happiness**: Vivi is excited 😄.
+- **Low energy and low happiness**: Vivi is depressed 😢.
+- **Low energy but high happiness**: Vivi is clam 😴.
 
-![Emotion Category](/assets/README/EmotionCategory.jpg)
+![Emotion Category](/assets/README/EmotionCategory.png)
 ## Features ✨
 
 1. **Energy Bar**:
@@ -129,7 +129,7 @@ We will be using the following tools to build Vivi:
 
 Below is the workflow for developing the VoltVivi project:
 
-![Development Workflow](/assets/README/VoltViviWorkFlow.jpg)
+![Development Workflow](/assets/README/VoltViviWorkFlow.png)
 
 ### Plan 📋
 - **Tool**: Figma
